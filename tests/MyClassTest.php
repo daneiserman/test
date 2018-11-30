@@ -6,9 +6,9 @@
  * Time: 16:12
  */
 require_once 'vendor/autoload.php';
-require_once 'src/MyClass.php';
 
 use PHPUnit\Framework\TestCase;
+use Test\MyClass;
 
 class MyClassTest extends TestCase
 {

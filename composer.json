@@ -7,8 +7,16 @@
       "email": "d.eyzerman@qsoft.ru"
     }
   ],
-  "require": {},
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1"
+  },
   "require-dev": {
     "phpunit/phpunit": "^7.4"
+  },
+  "autoload": {
+    "psr-0": {
+      "Test": "src/"
+    }
   }
 }

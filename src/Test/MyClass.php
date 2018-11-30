@@ -6,6 +6,8 @@
  * Time: 16:11
  */
 
+namespace Test;
+
 class MyClass
 {
 
