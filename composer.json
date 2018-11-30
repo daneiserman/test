@@ -1,0 +1,14 @@
+{
+  "name": "deyzerman/test",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Даниил Эйзерман",
+      "email": "d.eyzerman@qsoft.ru"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "^7.4"
+  }
+}
