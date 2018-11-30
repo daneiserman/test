@@ -37,7 +37,7 @@ class MyClassTest extends TestCase
     public function testConsumer($a, $b)
     {
         $this->assertSame('first', $a);
-        $this->assertSame('second', $b);
+        $this->assertSame('bug', $b);
     }
 }
 
