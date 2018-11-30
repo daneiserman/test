@@ -5,8 +5,8 @@
  * Date: 09.11.18
  * Time: 16:12
  */
-require_once '../vendor/autoload.php';
-require_once 'MyClass.php';
+require_once 'vendor/autoload.php';
+require_once 'src/MyClass.php';
 
 use PHPUnit\Framework\TestCase;
 
